@@ -1,4 +1,10 @@
-# Lead Your Way - Bike Rental App
+<div align="center">
+  <img src="./public/logo-lyw.png" alt="UPC" height="180">
+  <h3 align="center">Lead Your Way - Bike Rental App</h3>
+  <p>Navi Buddy · 2023-02</p>
+</div>
+
+---
 
 Welcome to **Lead Your Way** , your go-to bike rental app for a convenient, efficient, and enjoyable cycling experience.
 
